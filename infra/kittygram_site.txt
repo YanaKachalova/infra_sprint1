@@ -2,5 +2,5 @@ IP: 89.169.177.182;
 name_taski: https://yanahost.hopto.org/;
 name_kittygram: https://hostyana.hopto.org/;
 login: yana;
-password: JlOv3bJ-5z;
+password: yana;
 
